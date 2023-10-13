@@ -4,6 +4,10 @@ JNTUK PREVIOUS YEAR QUESTION PAPERS SCRAPPER
 ## Overview
 The Question Papers Crawler is a project developed for the hackathon at our college. It combines the power of Python libraries such as Requests, Beautiful Soup, and Flask to gather data from the internet, parse the gathered material, and provide a web interface to access the question papers' content.
 
+<p align="center">
+<a href="api/static/2.png"><img src="https://img.shields.io/badge/文档-中文版-blue.svg" alt="CN doc"></a>
+</p>
+
 ## Features
 - Web crawling: The project utilizes the Requests library to crawl websites and retrieve HTML content.
 - HTML parsing: Beautiful Soup is used to parse the HTML content and extract relevant information, such as question papers.
